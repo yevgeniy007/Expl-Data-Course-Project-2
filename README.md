@@ -19,5 +19,5 @@ c. The bar plot shows a decrease of mean annual values
 
 d. The bar plot for the MEDIAN values suggests skewed distributions of emission values; this can be further explored by looking at different sources of emissions 
 
-# 2. Have total emissions from PM2.5 decreased in the Baltimore City, Marylandfrom 1999 to 2008? 
+# 2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland from 1999 to 2008? 
 Total emissions from PM2.5 in the Baltimore City, Maryland have decreased between 1999 and 2002, then increased between 2002 and 2005 and then decreased again between 2005 and 2008
