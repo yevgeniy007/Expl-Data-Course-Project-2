@@ -21,3 +21,6 @@ d. The bar plot for the MEDIAN values suggests skewed distributions of emission 
 
 # 2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland from 1999 to 2008? 
 Total emissions from PM2.5 in the Baltimore City, Maryland have decreased between 1999 and 2002, then increased between 2002 and 2005 and then decreased again between 2005 and 2008
+
+#3. Of the four types of sources indicated by  the type variable,  which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City?  Which have seen increases in emissions from 1999–2008? 
+
