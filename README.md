@@ -24,3 +24,13 @@ Total emissions from PM2.5 in the Baltimore City, Maryland have decreased betwee
 
 #3. Of the four types of sources indicated by  the type variable,  which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City?  Which have seen increases in emissions from 1999–2008? 
 
+Similar to the total emissions, all sources have seen decrease between 1999 and 2008
+- No sources have seen increases in mean emissions between year 1999 and 2008
+- However increases in mean emissions in 2005 compared to 2002 are observed    
+- Increases in 2005 compared to 2002 are seen for NON-ROAD and POINT sources
+- For ON-ROAD the data show steady year-on-year decrease of mean emissions between 1999 and 2008
+- NONPOINT source shows equal level of mean emissions in 2002 and 2005 
+- However, small differences in the mean level of emissions for each source should be interpreted with caution
+- because of wide spread of data as suggested by boxplot chart
+
+
