@@ -30,4 +30,18 @@ Total emissions from PM2.5 in the Baltimore City, Maryland have decreased betwee
 - However, small differences in the mean level of emissions for each source should be interpreted with caution
 - because of wide spread of data as suggested by boxplot chart
 
+# 3.	Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
+
+[in progress]
+
+# 4.	How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City? 
+
+[in progress]
+
+# 5.	Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
+ 
+[in progress]
+
+
+
 
