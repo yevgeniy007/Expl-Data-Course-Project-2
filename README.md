@@ -32,7 +32,7 @@ Total emissions from PM2.5 in the Baltimore City, Maryland have decreased betwee
 
 # 3.	Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
--Emissions from coal-combustion related sources have shown year on year increase
+- Emissions from coal-combustion related sources have shown year on year increase
 
 # 4.	How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City? 
 
