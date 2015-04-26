@@ -6,7 +6,7 @@ With the pollution data annual breakdown for 1999, 2002, 2005 and 2008, each thr
 This dataset is characterized by a wide variation of emissions data and the likely presence of high outlier readings 
 and in order to perform exploratiry analysis correctly we need to look in the change of the mean values of emissions
 and into the veriations of data, because the outliers may affect the means; 
-The data can be visualised by using boxplot charts, which is the main type of presentation in this assignment 
+The data can be visualised by using boxplot charts and barcharts, where approppriate, which is the main type of presentation in this assignment 
 
 # A summary of answers to project assignment 
  
@@ -32,7 +32,7 @@ Total emissions from PM2.5 in the Baltimore City, Maryland have decreased betwee
 
 # 3.	Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
-[in progress]
+-Emissions from coal-combustion related sources have shown year on year increase
 
 # 4.	How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City? 
 
